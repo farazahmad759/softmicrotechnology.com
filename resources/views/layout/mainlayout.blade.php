@@ -10,7 +10,6 @@
     <div id="wrapper" class="clearfix">
 
         @include('layout.partials.header')
-        @include('layout.partials.slider')
         @yield('content')
         @include('layout.partials.footer')
     </div><!-- #wrapper end -->

@@ -1,4 +1,5 @@
 @extends('layout.mainlayout')
+@include('layout.partials.slider')
 @section('content')
 
 <section id="content">
