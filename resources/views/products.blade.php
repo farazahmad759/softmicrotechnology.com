@@ -6,11 +6,11 @@
 <section id="page-title">
 
     <div class="container clearfix">
-        <h1>Portfolio</h1>
+        <h1>Products</h1>
         <span>Showcase of Our Awesome Works in 1 Column</span>
         <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
-            <li class="active">Portfolio</li>
+            <li class="active">Products</li>
         </ol>
     </div>
 
@@ -49,17 +49,17 @@
 
                 <article class="portfolio-item pf-media pf-icons clearfix">
                     <div class="portfolio-image">
-                        <a href="portfolio-single.html">
+                        <a href="#">
                             <img src="images/portfolio/1/1.jpg" alt="Open Imagination">
                         </a>
                         <div class="portfolio-overlay">
                             <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i
                                     class="icon-line-plus"></i></a>
-                            <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+                            <a href="#" class="right-icon"><i class="icon-line-ellipsis"></i></a>
                         </div>
                     </div>
                     <div class="portfolio-desc">
-                        <h3><a href="portfolio-single.html">Open Imagination</a></h3>
+                        <h3><a href="#">Open Imagination</a></h3>
                         <span><a href="#">Media</a>, <a href="#">Icons</a></span>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus, quaerat beatae nulla
                             debitis vitae temporibus enim sed. Optio, reprehenderit, ex.</p>
@@ -68,23 +68,23 @@
                             <li><i class="icon-ok"></i> <strong>Completed on:</strong> 12th January, 2014</li>
                             <li><i class="icon-ok"></i> <strong>By:</strong> John Doe</li>
                         </ul>
-                        <a href="portfolio-single.html" class="button button-3d noleftmargin">Launch Project</a>
+                        <a href="#" class="button button-3d noleftmargin">Product Details</a>
                     </div>
                 </article>
 
                 <article class="portfolio-item pf-illustrations clearfix">
                     <div class="portfolio-image">
-                        <a href="portfolio-single.html">
+                        <a href="#">
                             <img src="images/portfolio/1/2.jpg" alt="Locked Steel Gate">
                         </a>
                         <div class="portfolio-overlay">
                             <a href="images/portfolio/full/2.jpg" class="left-icon" data-lightbox="image"><i
                                     class="icon-line-plus"></i></a>
-                            <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+                            <a href="#" class="right-icon"><i class="icon-line-ellipsis"></i></a>
                         </div>
                     </div>
                     <div class="portfolio-desc">
-                        <h3><a href="portfolio-single.html">Locked Steel Gate</a></h3>
+                        <h3><a href="#">Locked Steel Gate</a></h3>
                         <span><a href="#">Illustrations</a></span>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus, quaerat beatae nulla
                             debitis vitae temporibus enim sed. Optio, reprehenderit, ex.</p>
@@ -93,7 +93,7 @@
                             <li><i class="icon-ok"></i> <strong>Completed on:</strong> 14th February, 2014</li>
                             <li><i class="icon-ok"></i> <strong>By:</strong> Mary Jane</li>
                         </ul>
-                        <a href="portfolio-single.html" class="button button-3d noleftmargin">Launch Project</a>
+                        <a href="#" class="button button-3d noleftmargin">Product Details</a>
                     </div>
                 </article>
 
@@ -119,7 +119,7 @@
                             <li><i class="icon-ok"></i> <strong>Completed on:</strong> 21st February, 2014</li>
                             <li><i class="icon-ok"></i> <strong>By:</strong> Ricky Martin</li>
                         </ul>
-                        <a href="portfolio-single-video.html" class="button button-3d noleftmargin">Launch Project</a>
+                        <a href="portfolio-single-video.html" class="button button-3d noleftmargin">Product Details</a>
                     </div>
                 </article>
 
@@ -153,23 +153,24 @@
                             <li><i class="icon-ok"></i> <strong>Completed on:</strong> 3rd March, 2014</li>
                             <li><i class="icon-ok"></i> <strong>By:</strong> Corey Smith</li>
                         </ul>
-                        <a href="portfolio-single-gallery.html" class="button button-3d noleftmargin">Launch Project</a>
+                        <a href="portfolio-single-gallery.html" class="button button-3d noleftmargin">Product
+                            Details</a>
                     </div>
                 </article>
 
                 <article class="portfolio-item pf-uielements pf-media clearfix">
                     <div class="portfolio-image">
-                        <a href="portfolio-single.html">
+                        <a href="#">
                             <img src="images/portfolio/1/5.jpg" alt="Console Activity">
                         </a>
                         <div class="portfolio-overlay">
                             <a href="images/portfolio/full/5.jpg" class="left-icon" data-lightbox="image"><i
                                     class="icon-line-plus"></i></a>
-                            <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+                            <a href="#" class="right-icon"><i class="icon-line-ellipsis"></i></a>
                         </div>
                     </div>
                     <div class="portfolio-desc">
-                        <h3><a href="portfolio-single.html">Console Activity</a></h3>
+                        <h3><a href="#">Console Activity</a></h3>
                         <span><a href="#">UI Elements</a>, <a href="#">Media</a></span>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus, quaerat beatae nulla
                             debitis vitae temporibus enim sed. Optio, reprehenderit, ex.</p>
@@ -178,7 +179,7 @@
                             <li><i class="icon-ok"></i> <strong>Completed on:</strong> 16th March, 2014</li>
                             <li><i class="icon-ok"></i> <strong>By:</strong> Emma Watson</li>
                         </ul>
-                        <a href="portfolio-single.html" class="button button-3d noleftmargin">Launch Project</a>
+                        <a href="#" class="button button-3d noleftmargin">Product Details</a>
                     </div>
                 </article>
 
@@ -218,7 +219,8 @@
                             <li><i class="icon-ok"></i> <strong>Completed on:</strong> 24th March, 2014</li>
                             <li><i class="icon-ok"></i> <strong>By:</strong> Jane Doe</li>
                         </ul>
-                        <a href="portfolio-single-gallery.html" class="button button-3d noleftmargin">Launch Project</a>
+                        <a href="portfolio-single-gallery.html" class="button button-3d noleftmargin">Product
+                            Details</a>
                     </div>
                 </article>
 
@@ -244,7 +246,7 @@
                             <li><i class="icon-ok"></i> <strong>Completed on:</strong> 2nd April, 2014</li>
                             <li><i class="icon-ok"></i> <strong>By:</strong> John Doe</li>
                         </ul>
-                        <a href="portfolio-single-video.html" class="button button-3d noleftmargin">Launch Project</a>
+                        <a href="portfolio-single-video.html" class="button button-3d noleftmargin">Product Details</a>
                     </div>
                 </article>
 
