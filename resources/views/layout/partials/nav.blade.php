@@ -8,6 +8,10 @@
                             <div>Home</div>
                         </a>
                     </li>
+                    <li class=""><a href="/services">
+                            <div>Services</div>
+                        </a>
+                    </li>
                     <li><a href="/products">
                             <div>Products</div>
                         </a>
@@ -45,10 +49,6 @@
                                 </ul>
                             </li>
                         </ul>
-                    </li>
-                    <li class=""><a href="/services">
-                            <div>Services</div>
-                        </a>
                     </li>
                     <li class=""><a href="/contact">
                             <div>Contact Us</div>
