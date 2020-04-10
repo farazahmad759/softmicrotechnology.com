@@ -54,8 +54,7 @@
                                                 Lighting Industry, Power Electronics, Medical, Optical and Mechanical.
                                             </p>
                                             <p class="u-text u-text-default u-text-3">
-                                                <a href="https://www.freepik.com/free-photos-vectors/background"
-                                                    target="_blank">
+                                                <a href="/contact" target="">
                                                     <b>Contact us </b>
                                                 </a>
                                                 for more information
