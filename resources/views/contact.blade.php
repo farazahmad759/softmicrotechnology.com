@@ -8,10 +8,10 @@
     <div class="container clearfix">
         <h1>Contact</h1>
         <span>Get in Touch with Us</span>
-        <ol class="breadcrumb">
+        {{-- <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
             <li class="active">Contact</li>
-        </ol>
+        </ol> --}}
     </div>
 
 </section><!-- #page-title end -->
